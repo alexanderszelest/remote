@@ -1,0 +1,11 @@
+commit d1423ce78bc94e91a3ae74821c7b499d0d9bfbba
+Author: unknown <alexanderszelest@gmail.com>
+Date:   Fri May 22 08:56:21 2020 +0200
+
+    added .gitignore *.doc
+
+commit 430a048b950bb943f66722b7f706de8547b1c1ac
+Author: unknown <alexanderszelest@gmail.com>
+Date:   Fri May 22 08:50:45 2020 +0200
+
+    pierwsze 2 zwrotni
